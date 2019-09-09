@@ -6,6 +6,7 @@ Index
 css et Image vous vous en foutez, modifiez juste les fichiers pythons avec une description de ce que vous avez fait, ca permet de garder un historique et de tous avancer sur les même choses.
 Je sais pas si vous pouvez modifer mes trucs ?  et créez des fichiers séparés si vous le souhaitez
 Vous prenez pas la tête pour l'instant
+Vous pouvez créer des nouvelles branches pour partir sur des projets solos.
 
 
 
