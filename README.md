@@ -2,6 +2,11 @@ Bonjour Romain, Gwen et Sami
 c'est le read me ici
 je sais pas vrm comment tous ça marche encore
 
+Index
+css et Image vous vous en foutez, modifiez juste les fichiers pythons avec une description de ce que vous avez fait, ca permet de garder un historique et de tous avancer sur les même choses.
+Je sais pas si vous pouvez modifer mes trucs ?  et créez des fichiers séparés si vous le souhaitez
+Vous prenez pas la tête pour l'instant
+
 
 
 
